@@ -17,5 +17,6 @@ void testPrintColorMap() {
     std::cout << "\nPrint color map test\n"; 
     int result = printColorMap();
     assert(result == 25);
+    assert(result == 30);
     std::cout << "All is well (maybe!)\n";
 }
