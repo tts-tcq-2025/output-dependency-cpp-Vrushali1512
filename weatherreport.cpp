@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <assert>
+#include <assert.h>
 
 namespace WeatherSpace
 {
